@@ -1,0 +1,13 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_books_data_user,books.data,model_books_data,ensah_library.library_group_user,1,0,0,0
+access_books_data_manager,books.data,model_books_data,ensah_library.library_group_manager,1,1,1,1
+access_book_publisher_user,book.publisher,model_book_publisher,ensah_library.library_group_user,1,0,0,0
+access_book_publisher_manager,book.publisher,model_book_publisher,ensah_library.library_group_manager,1,1,1,1
+access_books_author_user,books.author,model_books_author,ensah_library.library_group_user,1,0,0,0
+access_books_author_manager,books.author,model_books_author,ensah_library.library_group_manager,1,1,1,1
+access_books_borrows_user,books.borrows,model_books_borrows,ensah_library.library_group_user,1,1,1,0
+access_books_borrows_manager,books.borrows,model_books_borrows,ensah_library.library_group_manager,1,1,1,1
+access_book_copies_user,book.copies,model_book_copies,ensah_library.library_group_user,1,0,0,0
+access_book_copies_manager,book.copies,model_book_copies,ensah_library.library_group_manager,1,1,1,1
+access_books_category_user,books.category,model_books_category,ensah_library.library_group_user,1,0,0,0
+access_books_category_manager,books.category,model_books_category,ensah_library.library_group_manager,1,1,1,1

@@ -1,9 +1,9 @@
-![image](https://github.com/doha-rkb/Library_management_system_odoo14/assets/109626850/75c356a7-8079-4194-ab95-9d0916362407)# Library_management_system_odoo14
+# Library_management_system_odoo14
 Le Système de Gestion de Bibliothèque constitue une réponse innovante et intégrée pour moderniser l'ensemble des opérations liées à la bibliothèque. Développé au moyen du framework Odoo, cette solution complète vise à optimiser la gestion des livres, des auteurs, des catégories, des copies, des emprunts, et des éditeurs d'une manière efficace et intuitive.
 
 # Architecture :
 Le système suit une architecture modulaire, avec des modules distincts pour la gestion des auteurs, des catégories, des copies de livres, des données de livres, des emprunts et des éditeurs. Chaque module est conçu pour répondre à des besoins spécifiques tout en permettant une intégration harmonieuse.
-
+![image](https://github.com/doha-rkb/Library_management_system_odoo14/assets/109626850/75c356a7-8079-4194-ab95-9d0916362407)
 # Fonctionnalités clés :
 
 1. Recherche de Livres :
